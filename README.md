@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello everyone, my name is Alexey and now I am studying web development at [Yandex.Practicum](https://praktikum.yandex.com/) 
+## I am currently working on educational project work [Mesto](https://github.com/MelnikovAleksei/mesto) - is an interactive page where you can add photos, delete them, and like. 
+
+#### How to reach me: 
+* [Facebook](https://www.facebook.com/melnikov.aleksei.alekseevich/) 
+* [Codewars](https://www.codewars.com/users/MelnikovAleksei) 
 
 <!--
 **MelnikovAleksei/MelnikovAleksei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
