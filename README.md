@@ -7,7 +7,7 @@
 * ["Russian Travel" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/russian-travel) - проектная работа, однастраничный сайт с адаптивным дизайном про внутренний туризм в России 
 * ["How to learn" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/how-to-learn) - проектная работа, одностраничный сайт про методики обучения 
 * [API study tasks (ссылка на репозиторий)](https://github.com/MelnikovAleksei/api-study-tasks) - учебные веб-приложения с использованием различных API из курса ["Client-side web APIs" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs) MDN web docs  
-* [Apps (ссылка на репозиторий)](https://github.com/MelnikovAleksei/apps) - учебные веб-приложения из курса ["Learn web dev" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn) MDN web docs и [Youtube канала (ссылка на канал)](https://www.youtube.com/c/Freecodecamp/) сообщества freeCodeCamp 
+* [JS stydy apps (ссылка на репозиторий)](https://github.com/MelnikovAleksei/js-stydy-apps) - учебные веб-приложения из курса ["Learn web dev" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn) MDN web docs и [Youtube канала (ссылка на канал)](https://www.youtube.com/c/Freecodecamp/) сообщества freeCodeCamp 
 * ["Colmar Academy" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/Colmar-Academy) - дипломная проектная работа интенсива "Build Websites from Scratch" школы программирования [Codecademy (ссылка на сайт школы)](https://www.codecademy.com/) 
 
 #### Контакты: 
