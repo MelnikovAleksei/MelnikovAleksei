@@ -14,6 +14,8 @@
 
 * [JS stydy apps (ссылка на репозиторий)](https://github.com/MelnikovAleksei/js-stydy-apps) - учебные веб-приложения из курса ["Learn web dev" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn) MDN web docs и [Youtube канала (ссылка на канал)](https://www.youtube.com/c/Freecodecamp/) сообщества freeCodeCamp 
 
+* [Exercises from the book "Eloquent JS" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/exercises-eloquent-js/tree/master) - учебные задания из 2-5 глав книги ["Eloquent JavaScript" (ссылка на электронную копию)](https://eloquentjavascript.net/) 
+
 * ["Colmar Academy" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/Colmar-Academy) - дипломная проектная работа интенсива "Build Websites from Scratch" школы программирования [Codecademy (ссылка на сайт школы)](https://www.codecademy.com/) 
 
 
