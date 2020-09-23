@@ -10,7 +10,7 @@
 
 * [API study tasks (ссылка на репозиторий)](https://github.com/MelnikovAleksei/api-study-tasks) - учебные веб-приложения с использованием различных API из курса ["Client-side web APIs" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs) MDN web docs  
 
-* [OOP study apps (ссылка на репозиторий)](https://github.com/MelnikovAleksei/oop-study-tasks) - учебное веб-приложение выполненное по методологии ООП из курса ["Introducing JavaScript objects" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) 
+* [OOP study app (ссылка на репозиторий)](https://github.com/MelnikovAleksei/oop-study-task) - учебное веб-приложение выполненное по методологии ООП из курса ["Introducing JavaScript objects" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects) 
 
 * [JS stydy apps (ссылка на репозиторий)](https://github.com/MelnikovAleksei/js-stydy-apps) - учебные веб-приложения из курса ["Learn web dev" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn) MDN web docs и [Youtube канала (ссылка на канал)](https://www.youtube.com/c/Freecodecamp/) сообщества freeCodeCamp 
 
