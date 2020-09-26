@@ -21,7 +21,7 @@
 
 #### Контакты: 
 * meln.a.a@yandex.ru
-* [Facebook](https://www.facebook.com/melnikov.aleksei.alekseevich/) 
+* [Facebook](https://www.facebook.com/meln.aleksei/) 
 * [Codewars](https://www.codewars.com/users/MelnikovAleksei) 
 
 <!--
