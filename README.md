@@ -4,7 +4,7 @@
 
 ## Другие мои проектные работы и опыт: 
 
-* ["Symple Note Taking App" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/notes) - это простое веб-приложение для создания заметок и хранения их на стороне клиента 
+* ["Symple Note Taking App" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/notes) - простое веб-приложение для создания заметок и хранения их на стороне клиента 
 
 * ["Russian Travel" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/russian-travel) - проектная работа, однастраничный сайт с адаптивным дизайном про внутренний туризм в России 
 
@@ -21,7 +21,8 @@
 * ["Colmar Academy" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/Colmar-Academy) - дипломная проектная работа интенсива "Build Websites from Scratch" школы программирования [Codecademy (ссылка на сайт школы)](https://www.codecademy.com/) 
 
 
-#### Контакты: 
+## Контакты: 
+
 * meln.a.a@yandex.ru
 * [Facebook](https://www.facebook.com/meln.aleksei/) 
 * [Codewars](https://www.codewars.com/users/MelnikovAleksei) 
