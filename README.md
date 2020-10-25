@@ -4,6 +4,8 @@
 
 ## Другие мои проектные работы и опыт: 
 
+* ["A simple traveller form React JS web application"  (ссылка на репозиторий)](https://github.com/MelnikovAleksei/travel-form) - простое веб-приложение на React с отображением информации, введеной в форму.
+
 * ["Symple Note Taking App" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/notes) - простое веб-приложение для создания заметок и хранения их на стороне клиента 
 
 * ["Russian Travel" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/russian-travel) - проектная работа, однастраничный сайт с адаптивным дизайном про внутренний туризм в России 
