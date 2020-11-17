@@ -6,6 +6,8 @@
 
 * ["ТурбинА" (ссылка на репозиторий)](https://github.com/MelnikovAleksei/marshak-musical-project) - веб-приложение на React JS для специального музыкального проекта книжного магазина ["Маршак"](https://marshakbooks.ru/).
 
+* [Форма подписки (ссылка на репозиторий)](https://github.com/MelnikovAleksei/form-validation-formik) - комплексная форма подписки на рассылку. Каждое поле формы валидируется с помощью Yup. 
+
 ## Другие мои проектные работы и опыт: 
 
 * ["A simple traveller form React JS web application"  (ссылка на репозиторий)](https://github.com/MelnikovAleksei/travel-form) - простое веб-приложение на React с отображением информации, введеной в форму.
