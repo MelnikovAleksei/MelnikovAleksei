@@ -2,6 +2,8 @@
 
 ## Сейчас я работаю над: 
 
+* [Movies Explorer API](https://github.com/MelnikovAleksei/movies-explorer-api/blob/level-1/README.md) - REST API для аутентификации пользователей и сохранения фильмов в избранном. Создан для сервиса поиска фильмов Movie Explorer, в котором можно найти фильмы по ключевым словам. Часть дипломной работы в Яндекс Практикум.
+
 * ["Mesto REST API full"](https://github.com/MelnikovAleksei/react-mesto-api-full) - фронтенд и бэкенд части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. Размещение: https://melnikov.students.nomoredomains.icu 
 
 ## Другие мои проектные работы и опыт: 
