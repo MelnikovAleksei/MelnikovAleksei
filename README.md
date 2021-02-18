@@ -10,7 +10,7 @@
 
 ### NodeJS (Express):
 
-* ["Mesto REST API"](https://github.com/MelnikovAleksei/express-mesto) - REST API для проектной работы "Mesto", связанное с базой данных MongoDB. При запуске приложения оно подключается к серверу mongo. В приложении описана схема пользователя и схема карточки. Некоторые поля схем проверяются регулярным выражением.
+* ["Mesto REST API"](https://github.com/MelnikovAleksei/react-mesto-api-full/tree/main/backend) - бэкенд части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. [Размещение фронтенда](https://melnikov.students.nomoredomains.icu) 
 
 ### ReactJS:
 
@@ -41,8 +41,6 @@
 * [Exercises from the book "Eloquent JS"](https://github.com/MelnikovAleksei/exercises-eloquent-js/tree/master) - учебные задания из 2-5 глав книги ["Eloquent JavaScript" (ссылка на электронную копию)](https://eloquentjavascript.net/). 
 
 ### HTML, CSS:
-
-* ["Тестовое задание для Top 3D Group"](https://github.com/MelnikovAleksei/test-top3dgroup) - однастраничный сайт, адаптивная верстка.
 
 * ["Russian Travel"](https://github.com/MelnikovAleksei/russian-travel) - проектная работа, однастраничный сайт с адаптивным дизайном про внутренний туризм в России. 
 
