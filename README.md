@@ -1,44 +1,36 @@
-# Привет, меня зовут Алексей и я изучаю веб-программирование в [Яндекс.Практикум](https://praktikum.yandex.ru/) 
+# Привет, меня зовут Алексей и я изучаю веб-программирование на факультете веб-разработки в [Яндекс.Практикум](https://praktikum.yandex.ru/) 
 
 ## Сейчас я работаю над: 
 
-* ["Movies Explorer API"](https://github.com/MelnikovAleksei/movies-explorer-api/blob/level-1/README.md) - REST API для аутентификации пользователей и сохранения фильмов в избранном. Создан для сервиса поиска фильмов Movie Explorer, в котором можно найти фильмы по ключевым словам. Часть дипломной работы в Яндекс Практикум.
+* ["Movies Explorer API"](https://github.com/MelnikovAleksei/movies-explorer-api) - бэкенд (Express.js) для аутентификации пользователей и сохранения фильмов в избранном. Создан для сервиса поиска фильмов Movie Explorer, в котором можно найти фильмы по ключевым словам. **Часть дипломной работы в Яндекс Практикум**
 
-* ["Mesto REST API full"](https://github.com/MelnikovAleksei/react-mesto-api-full) - фронтенд и бэкенд части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. [Размещение фронтенда](https://melnikov.students.nomoredomains.icu) 
+* ["Mesto REST API full"](https://github.com/MelnikovAleksei/react-mesto-api-full) - фронтенд (React.js) и бэкенд (Express.js) части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. **Основная курсовая работа в Яндекс Практикум**
 
-## Другие мои проектные работы и опыт: 
-
-### NodeJS (Express):
-
-* ["Mesto REST API"](https://github.com/MelnikovAleksei/react-mesto-api-full/tree/main/backend) - бэкенд части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. [Размещение фронтенда](https://melnikov.students.nomoredomains.icu) 
+## Другие мои проектные работы: 
 
 ### ReactJS:
 
-* ["Mesto Reactjs"](https://github.com/MelnikovAleksei/mesto-react) - интерактивный сайт на Reactjs. Пользователь может добавлять и удалять фотографии, ставить им «лайк». 
+* ["Mesto"](https://github.com/MelnikovAleksei/mesto-react) - интерактивный сайт на React.js. Пользователь может добавлять и удалять фотографии, ставить им «лайк». 
 
-* ["Hacker news app" (тестовое задание для Авито)](https://github.com/MelnikovAleksei/hacker-news) - интерфейс для сайта Hacker News в виде главной страницы и страницы новости. Главная страница содержит список из последних 100 новостей в виде списка. Страница новости содержит 1 выбранную новость и комментарии к ней.
+* ["Hacker news app"](https://github.com/MelnikovAleksei/hacker-news) - интерфейс для сайта Hacker News в виде главной страницы и страницы новости. Главная страница содержит список из последних 100 новостей в виде списка. Страница новости содержит 1 выбранную новость и комментарии к ней.
 
-* ["Высоконравственный сигнал"](https://github.com/MelnikovAleksei/hackathon-25) это прототип приложения для генерации гражданских инициатив в условиях цензуры. Пользователь приложения может выбрать проблему и своё настроение. По заданным параметрам программа найдёт для пользователя стихотворную строку, которую он может скопировать в буфер обмена или сохранить в "избранном"
+* ["Высоконравственный сигнал"](https://github.com/MelnikovAleksei/hackathon-25) - прототип приложения для генерации гражданских инициатив в условиях цензуры. Пользователь приложения может выбрать проблему и своё настроение. По заданным параметрам программа найдёт для пользователя стихотворную строку, которую он может скопировать в буфер обмена или сохранить в избранном.
 
-* ["ТурбинА"](https://github.com/MelnikovAleksei/marshak-musical-project) - веб-приложение на React JS для специального музыкального проекта книжного магазина ["Маршак"](https://marshakbooks.ru/).
+* ["ТурбинА"](https://github.com/MelnikovAleksei/marshak-musical-project) - приложение на React.js для специального музыкального проекта книжного магазина ["Маршак"](https://marshakbooks.ru/).
 
 * [Форма подписки](https://github.com/MelnikovAleksei/form-validation-formik) - комплексная форма подписки на рассылку на Reactjs с использованием Formik. Каждое поле формы валидируется с помощью Yup. 
 
-* ["A simple traveller form React JS web application"  (ссылка на репозиторий)](https://github.com/MelnikovAleksei/travel-form) - простое веб-приложение на React с отображением информации, введеной в форму.
-
 ### JS:
 
-* ["Mesto JS"](https://github.com/MelnikovAleksei/mesto) - интерактивный сайт на JavaScript (Асинхронный JS, ООП в интерфейсах, работа с DOM API и Fetch API), проверка данных форм, git, Webpack. Пользователь может добавлять и удалять фотографии, ставить им «лайк». 
+* ["Mesto"](https://github.com/MelnikovAleksei/mesto) - интерактивный сайт на JavaScript (Асинхронный JS, ООП в интерфейсах, работа с DOM API и Fetch API), проверка данных форм, git, Webpack. Пользователь может добавлять и удалять фотографии, ставить им «лайк». 
 
-* ["Symple Note Taking App"](https://github.com/MelnikovAleksei/notes) - простое веб-приложение для создания заметок и хранения их на стороне клиента. 
+* ["Note Taking App"](https://github.com/MelnikovAleksei/notes) - веб-приложение для создания заметок и хранения их на стороне клиента. 
 
 * [API study tasks](https://github.com/MelnikovAleksei/api-study-tasks) - учебные веб-приложения с использованием различных API из курса ["Client-side web APIs" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs) MDN web docs.  
 
 * [OOP study app](https://github.com/MelnikovAleksei/oop-study-task) - учебное веб-приложение выполненное по методологии ООП из курса ["Introducing JavaScript objects" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects). 
 
 * [JS stydy apps](https://github.com/MelnikovAleksei/js-stydy-apps) - учебные веб-приложения из курса ["Learn web dev" (ссылка на сайт курса)](https://developer.mozilla.org/en-US/docs/Learn) MDN web docs и [Youtube канала (ссылка на канал)](https://www.youtube.com/c/Freecodecamp/) сообщества freeCodeCamp. 
-
-* [Exercises from the book "Eloquent JS"](https://github.com/MelnikovAleksei/exercises-eloquent-js/tree/master) - учебные задания из 2-5 глав книги ["Eloquent JavaScript" (ссылка на электронную копию)](https://eloquentjavascript.net/). 
 
 ### HTML, CSS:
 
