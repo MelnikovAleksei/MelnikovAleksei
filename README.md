@@ -8,7 +8,7 @@
 
 * ["Mesto-React-Express"](https://github.com/MelnikovAleksei/mesto-react-express) - фронтенд (**React.js**, **CSS**) и бэкенд (**Express.js**) части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. **Основная курсовая работа в Яндекс Практикум**
 
-* [Drawing App](https://github.com/MelnikovAleksei/canvas-paint-app) - приложение для рисование на **React.js** с использованием библиотеки **[Roughjs]**(https://roughjs.com/) 
+* ["Drawing App"](https://github.com/MelnikovAleksei/canvas-paint-app) - приложение для рисование на **React.js** с использованием библиотеки **[Roughjs]**(https://roughjs.com/) 
 
 ## Другие мои проектные работы: 
 
