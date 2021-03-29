@@ -12,6 +12,10 @@
 
 ## Другие мои проектные работы: 
 
+### VueJS:
+
+* ["Task tracker"](https://github.com/MelnikovAleksei/task-tracker) - простое приложение для создания задач с использованием Vue, Vue Router и JSON-Server для бэкенда
+
 ### ReactJS:
 
 * ["Hacker news app"](https://github.com/MelnikovAleksei/hacker-news) - фронтенд (**React.js**) для сайта *Hacker News* в виде главной страницы и страницы новости. Главная страница содержит список из последних 100 новостей в виде списка. Страница новости содержит 1 выбранную новость и комментарии к ней.
