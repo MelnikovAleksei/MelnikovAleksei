@@ -2,23 +2,27 @@
 
 ## Сейчас я работаю над: 
 
-* ["Movies Explorer Frontend"](https://github.com/MelnikovAleksei/movies-explorer-frontend/tree/level-2-develop) - фронтенд (**React.js**) для сервиса поиска фильмов Movie Explorer с возможностью аутентификации пользователей, сохранения фильмов в избранном и поиском фильмов по ключевым словам. **Часть дипломной работы в Яндекс Практикум**
-
-* ["Movies Explorer API"](https://github.com/MelnikovAleksei/movies-explorer-api) - бэкенд (**Express.js**) для аутентификации пользователей и сохранения фильмов в избранном. Создан для сервиса поиска фильмов Movie Explorer, в котором можно найти фильмы по ключевым словам. **Часть дипломной работы в Яндекс Практикум**
-
-* ["Mesto-React-Express"](https://github.com/MelnikovAleksei/mesto-react-express) - фронтенд (**React.js**, **CSS**) и бэкенд (**Express.js**) части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. **Основная курсовая работа в Яндекс Практикум**
-
-* ["Drawing App"](https://github.com/MelnikovAleksei/canvas-paint-app) - приложение для рисование на **React.js** с использованием библиотеки **[Roughjs](https://roughjs.com/)** 
+* ["Tutor explorer"](https://github.com/MelnikovAleksei/test-repetit/tree/develop) - приложение для поиска репетиторов с использованием [Repetit.ru API](http://api.repetit.ru/manual.html)
 
 ## Другие мои проектные работы: 
 
 ### VueJS:
+
+* ["Travel App (frontend)](https://github.com/MelnikovAleksei/test-vue-travel-app-block/blob/main/README.md) - интерфейс для Travel-приложения на Vue и Less
 
 * ["Task tracker"](https://github.com/MelnikovAleksei/task-tracker) - простое приложение для создания задач с использованием Vue, Vue Router и JSON-Server для бэкенда
 
 * ["Vue-calculator"](https://github.com/MelnikovAleksei/vue-calculator) - калькулятор с базовым функционалом
 
 ### ReactJS:
+
+* ["Movies Explorer Frontend"](https://github.com/MelnikovAleksei/movies-explorer-frontend/tree/main) - фронтенд (**React.js**) для сервиса поиска фильмов Movie Explorer с возможностью аутентификации пользователей, сохранения фильмов в избранном и поиском фильмов по ключевым словам. **Часть дипломной работы в Яндекс Практикум**
+
+* ["Movies Explorer API"](https://github.com/MelnikovAleksei/movies-explorer-api) - бэкенд (**Express.js**) для аутентификации пользователей и сохранения фильмов в избранном. Создан для сервиса поиска фильмов Movie Explorer, в котором можно найти фильмы по ключевым словам. **Часть дипломной работы в Яндекс Практикум**
+
+* ["Mesto-React-Express"](https://github.com/MelnikovAleksei/mesto-react-express) - фронтенд (**React.js**, **CSS**) и бэкенд (**Express.js**) части приложения с возможностями авторизации и регистрации пользователей, операциями с карточками и пользователями. **Основная курсовая работа в Яндекс Практикум**
+
+* ["Drawing App"](https://github.com/MelnikovAleksei/canvas-paint-app) - приложение для рисование на **React.js** с использованием библиотеки **[Roughjs](https://roughjs.com/)** 
 
 * ["Hacker news app"](https://github.com/MelnikovAleksei/hacker-news) - фронтенд (**React.js**) для сайта *Hacker News* в виде главной страницы и страницы новости. Главная страница содержит список из последних 100 новостей в виде списка. Страница новости содержит 1 выбранную новость и комментарии к ней.
 
