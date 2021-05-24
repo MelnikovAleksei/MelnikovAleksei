@@ -1,4 +1,8 @@
-# Привет, меня зовут Алексей, я выпускник факультета веб-разработки [Яндекс.Практикум](https://praktikum.yandex.ru/) 
+# Hey! My name is Alexey
+
+## I am a [Yandex Practicum](https://praktikum.yandex.ru/) graduate and a frontend developer at [Repetit](https://repetit.ru/)
+
+<!--
 
 ## Сейчас я работаю над: 
 
@@ -52,11 +56,12 @@
 
 * ["Colmar Academy"](https://github.com/MelnikovAleksei/Colmar-Academy) - дипломная проектная работа интенсива "Build Websites from Scratch" школы программирования [Codecademy (ссылка на сайт школы)](https://www.codecademy.com/). 
 
-## Контакты: 
+-->
+
+## Contacts: 
 
 * meln.a.a@yandex.ru
 * [Facebook](https://www.facebook.com/meln.aleksei/) 
-* [Codewars](https://www.codewars.com/users/MelnikovAleksei) 
 
 <!--
 **MelnikovAleksei/MelnikovAleksei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
