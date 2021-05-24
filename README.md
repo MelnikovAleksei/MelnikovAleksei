@@ -1,4 +1,4 @@
-# Hey! My name is Alexey
+# Hey! My name is Aleksei
 
 ## I am a [Yandex Practicum](https://praktikum.yandex.ru/) graduate and a frontend developer at [Repetit](https://repetit.ru/)
 
